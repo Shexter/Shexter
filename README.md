@@ -1,49 +1,38 @@
-# Timothy Lauw
+# Hello World, I'm Timothy 👋
 
-AI + full-stack builder based in Vancouver, BC. CS student at the University of British Columbia.  
-I build inspectable, AI-powered web applications, developer tooling, and pragmatic automations.
-
----
-
-### What I'm Building
-
-- Multi-agent orchestration workflows and real-time streaming interfaces.
-- Human-in-the-loop automation tools for structured information extraction.
-- Systems and backend foundations, focusing on concurrency, storage, and networking.
+🚀 AI + full-stack builder in Vancouver, BC | 🎓 CS @ UBC
+Building inspectable, AI-powered apps, dev tooling & pragmatic automations.
 
 ---
 
-### Selected Projects
+### 🛠️ What I'm Building
+- 🤖 Multi-agent orchestration + real-time streaming interfaces
+- - 🧑‍💻 Human-in-the-loop tools for structured info extraction
+  - - ⚙️ Systems/backend: concurrency, storage, networking
+   
+    - ---
 
-#### [MarketMind](https://github.com/Shexter/marketmind-showdown)
-Multi-agent financial simulation where distinct trader personas (institutional, momentum, retail) interact dynamically with live market events. Built during nwHacks 2026 (1st Place).
-- **Stack:** Python, FastAPI, WebSockets, React, LLM Agent Orchestration
-- **Links:** [Code](https://github.com/Shexter/marketmind-showdown) · [Demo](https://marketmind-demo.vercel.app)
+    ### 🌟 Selected Projects
 
-#### [Career Operations Pipeline](https://github.com/Shexter/Master-Profile)
-Application tracking and sourcing pipeline combining structured LLM evaluation with deterministic filtering, keeping applicants in control of submissions.
-- **Stack:** TypeScript, React, Next.js, Python, FastAPI, PostgreSQL
-- **Links:** [Code](https://github.com/Shexter/Master-Profile) · [Architecture Writeup](https://github.com/Shexter/Master-Profile#architecture)
+    #### 📈 [MarketMind](https://github.com/Shexter/marketmind-showdown)
+    Multi-agent financial sim with live trader personas. nwHacks 2026 🥇
+    `Python · FastAPI · WebSockets · React · LLM Agents`
+    [Code](https://github.com/Shexter/marketmind-showdown) · [Demo](https://marketmind-demo.vercel.app)
 
-#### [Portal Schedule Exporter](https://github.com/Shexter/BCITSchedDownload)
-Manifest V3 browser extension that parses student timetable tables into RFC 5545 iCalendar (`.ics`) formats and direct Google Calendar schedules.
-- **Stack:** TypeScript, Chrome Extension APIs, iCalendar (RFC 5545)
-- **Links:** [Code](https://github.com/Shexter/BCITSchedDownload)
+    #### 📅 [Portal Schedule Exporter](https://github.com/Shexter/BCITSchedDownload)
+    Chrome extension exporting timetables to `.ics`/Google Calendar.
+    `TypeScript · Chrome Extension APIs · iCalendar`
+    [Code](https://github.com/Shexter/BCITSchedDownload)
 
----
+    ---
 
-### Stack
+### 🧰 Stack
+- 🎨 **Frontend:** TypeScript, React, Next.js, Tailwind
+- 🔧 **Backend:** Python, FastAPI, Node.js, PostgreSQL, C/C++
+- 🧠 **AI/Data:** Agent Orchestration, LLM Outputs, Embeddings, Pandas
+- 🐳 **Infra:** Git, Docker, Linux, GitHub Actions
+   
+- ---
 
-- **Frontend & Full-Stack:** TypeScript, JavaScript, React, Next.js, HTML5, CSS3, Tailwind CSS
-- **Backend & Systems:** Python, FastAPI, Node.js, PostgreSQL, SQL, WebSockets, C, C++
-- **AI & Data Systems:** Agent Orchestration, LLM Structured Outputs, Vector Embeddings, R, Pandas
-- **Tools & Infrastructure:** Git, Docker, Linux (Fedora), Bash, GitHub Actions
-
----
-
-### Elsewhere
-
-- **Portfolio:** [timothylauw.com](https://timothylauw.com)
-- **LinkedIn:** [linkedin.com/in/timothylauw](https://www.linkedin.com/in/timothylauw)
-- **Email:** [timothykurnialauw@gmail.com](mailto:timothykurnialauw@gmail.com)
-- **Resume:** [View PDF](https://timothylauw.com/resume.pdf)
+### 🔗 Elsewhere
+🌐 [Portfolio](https://timothylauw.com) · 💼 [LinkedIn](https://www.linkedin.com/in/timothylauw) · 📧 [Email](mailto:timothykurnialauw@gmail.com) · 📄 [Resume](https://timothylauw.com/resume.pdf)
