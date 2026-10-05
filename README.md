@@ -15,7 +15,7 @@ Building inspectable, AI-powered apps, developer tooling, and pragmatic automati
 
 ### 🌟 Selected Projects
 
-#### 📈 [MarketMind](https://github.com/Shexter/marketmind-showdown)
+#### 📈 [MarketMind](https://github.com/dewgong5/nwhacks2026)
 Multi-agent financial simulation with live trader personas · nwHacks 2026 🥇
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/) [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
